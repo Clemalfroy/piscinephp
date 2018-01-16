@@ -1,0 +1,88 @@
+dy {
+	background-color:rgb(110,110,110);
+}
+
+h1 {
+	font-size:7vw;
+}
+
+th, td {
+	font-size:2vw;
+	border: 1px solid black;
+	text-align:left;
+}
+
+sub, sup {
+	font-size:0.6vw;
+}
+sup {
+	top:-.1em;
+	font-size:0.6vw;
+}
+
+sub {
+	bottom:-.2em;
+}
+
+.no_border {
+	border-style:none;
+}
+
+.ma {
+	background-color:rgb(255,204,153);
+}
+
+.mat {
+	background-color:rgb(255,229,204);
+}
+
+.am {
+	background-color:rgb(255,255,204);
+}
+
+.mt {
+	background-color:rgb(204,255,153);
+}
+
+.nm {
+	background-color:rgb(153,51,255);
+}
+
+.ha {
+	background-color:rgb(255,51,153);
+}
+
+.gz {
+	background-color:rgb(0,204,204);
+}
+
+.ei {
+	background-color:rgb(170,170,170);
+}
+
+.act {
+	background-color:rgb(102,255,102);
+}
+
+.lan {
+	background-color:rgb(204,255,229);
+}
+
+.me {
+	background-color:rgb(0,255,0);
+}
+
+.right {
+	text-align:right;
+	font-size:0.7vw;
+}
+
+.middle {
+	text-align:center;
+	font-size:3vw;
+}
+
+.bot {
+	text-align:left;
+	font-size:1.5vw;
+}
